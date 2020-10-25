@@ -1,3 +1,34 @@
+## 简介
+
+>《Java 小白进阶之路》是我花了将近一年时间完成的一份 Java 零基础学习教程！**目前共完成 240+ 篇，共计 60w 字，全部是我手敲的，百分百的原汁原味，通俗易懂，略微夹带一点点思维的乐趣。**
+>
+>[点击下载]()
+
+<div align="center">
+    <h5 style="background: azure; font-size: .85em;color: #000000;"> 扫码回复【Java】可下载我整理的 200+ 本高清电子书</h6>
+    <h5 style="background: azure; font-size: .85em;color: #000000;"> 包括：入门、工具、框架、数据库、并发编程、底层、性能优化、设计模式、操作系统、计算机网络、数据结构与算法、面试、大数据、架构等等 </h6>
+    <h5 style="background: azure; font-size: .85em;color: #000000;"> 如果你愿意支持我，可以给项目点个star，我会很感激！</h6>
+    ![图片没显示的时候，微信搜索”沉默王二“也可以找得到](https://github.com/itwanger/JavaExplore/blob/main/itwanger.jpg)
+</div>
+
+<p align="center">
+    这也许是东半球最好的零基础学习 Java 项目！
+</p>
+
+## 使用指南
+
+1、因为本教程完全免费，但却被一些不良商家拿去卖钱，<b> 所以我需要你先帮我点一个 star </b>，助力原创，防止更多人上当受骗，也顺便支持我一下。
+
+2、如果你想直接下载《Java 小白进阶之路》 PDF，[点击这里就行]()
+
+3、如果你只想加我的个人微信: 二维码送上。
+
+<div align="center">
+    ![图片没显示的时候，微信搜索”qing_gee“也可以找得到](https://github.com/itwanger/JavaExplore/blob/main/qing_gee.jpeg)
+</div>
+
+## 导读
+
 假如有那么残酷的一天，我不小心喝错了一瓶药，一下子抹掉了我这十多年的编程经验，把我变成了一只小白。我想自学 Java，并且想要找到一份工作，我预计需要 6 个月的时间，前提条件是每天都处于高效率的学习状态当中，并且每天的学习时间至少在 12 个小时以上。
 
 即便是这样，我敢肯定，找到的工作肯定不会太好，勉强能够维持生活吧，毕竟是零基础入门啊。
@@ -8,7 +39,7 @@
 
 ### 01、第一个阶段，环境和工具准备
 
-- 准备一台电脑，要能联网
+- 准备一台电脑，要能连网
 - 下载、安装 JDK，配置 Java 开发环境
 - 下载、配置 [Maven](https://mp.weixin.qq.com/s/wSsm4zWHw9dxUO_PfEh1Dg)
 - 下载、安装 IntelliJ IDEA
@@ -400,13 +431,6 @@ Maven 也是需要提前安装和配置的，因为后面进阶的话，需要�
 - Docker
 - K8s
 
->需要 Java 书单的话，我在 [GitHub](https://github.com/itwanger/JavaBooks) 上发现了一个宝藏项目，光看了一下目录，就有点吸引我。
-
-![](https://upload-images.jianshu.io/upload_images/1179389-a7cef399d75dc403.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-需要的小伙伴可以按需自取，地址如下所示：
-
->https://github.com/itwanger/JavaBooks
 
 ### 05、第五个阶段，活着最重要
 
