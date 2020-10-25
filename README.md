@@ -8,7 +8,7 @@
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 扫码回复【Java】可下载我整理的 200+ 本高清电子书</h6>
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 包括：入门、工具、框架、数据库、并发编程、底层、性能优化、设计模式、操作系统、计算机网络、数据结构与算法、面试、大数据、架构等等 </h6>
     <h5 style="background: azure; font-size: .85em;color: #000000;"> 如果你愿意支持我，可以给项目点个star，我会很感激！</h6>
-    ![图片没显示的时候，微信搜索”沉默王二“也可以找得到](https://github.com/itwanger/JavaExplore/blob/main/itwanger.jpg)
+    ![图片没显示的时候，微信搜索”沉默王二“也可以找得到](https://github.com/itwanger/JavaExplore/blob/master/itwanger.jpg)
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 3、如果你只想加我的个人微信: 二维码送上。
 
 <div align="center">
-    ![图片没显示的时候，微信搜索”qing_gee“也可以找得到](https://github.com/itwanger/JavaExplore/blob/main/qing_gee.jpeg)
+    ![图片没显示的时候，微信搜索”qing_gee“也可以找得到](https://github.com/itwanger/JavaExplore/blob/master/qing_gee.jpeg)
 </div>
 
 ## 导读
